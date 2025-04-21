@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import Header from './Header.jsX'
+import Header from './Header.jsx'
 import { Outlet, useNavigate } from 'react-router-dom'
 import Footer from './Footer'
 import axios from 'axios'
