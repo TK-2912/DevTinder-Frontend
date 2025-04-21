@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom"
-import Header from "./components/Header.jsX"
+import Header from "./components/Header.jsx"
 import Body from "./components/Body"
 import Login from "./components/Login"
 import Profile from "./components/Profile"
